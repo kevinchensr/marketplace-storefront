@@ -1,9 +1,9 @@
 {
-  "collections": ["Please enter your Collection ID"],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+  "collections": [ "6BqYxTgbN3cJh7WsozVAL5fCv7T5h8pjd3sXHPbytrJB" ],
+  "xApiKey": "mw_xEymjimLBTO9bUTaRmWMJLklDq6bDlfiBA8",
+  "serviceFee": "3",
+  "currencyOption": "SOL",
+  "name": "TopStarMarket",
+  "logo": "https://collections.mirrorworld.fun/1678259732023-clovers-background.jpg",
+  "network": "devnet"
 }
